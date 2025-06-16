@@ -1,5 +1,5 @@
 ##'/api/v1/details'
-###'/api/v1/health'
+##'/api/v1/health'
 
 from flask import Flask, jsonify
 import datetime
